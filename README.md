@@ -1,4 +1,4 @@
-![banner](https://github.com/MuhammadAsad256/MuhammadAsad256/blob/main/Github%20Banner.png)
+![banner](https://github.com/Muaz-Ejaz/Muaz-Ejaz/blob/main/Github%20Banner.png)
 <h1 align="center">👋 Hey, I'm Muhammad Muaz! 🚀</h1>
 <h3 align="center">Web Developer | JavaScript Wizard | UI/UX Enthusiast</h3>
 <p align="center">
@@ -20,6 +20,9 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/muhammad-muaz786/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="https://www.instagram.com/muaz.ejaz/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
