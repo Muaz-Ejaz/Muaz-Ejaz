@@ -11,7 +11,7 @@
 - 💻 I’m a **web developer** who loves creating **dynamic, responsive, and user-friendly** web apps using **JavaScript**, **HTML**, and **CSS**.  
 - 🎨 Passionate about designing sleek, intuitive interfaces that make users go "Wow!"  
 - 🔧 Always tinkering with code, exploring new libraries, and leveling up my skills.  
-- 📧 Reach out: **muhammadmuaz4272@gmail.com**  
+- 📧 Reach out: **asadm2839@gmail.com**  
 - 😎 **Fun fact**: I debug code faster than I drink my coffee! ☕  
 
 ---
@@ -21,7 +21,7 @@
   <a href="http://www.linkedin.com/in/muhammad-muaz786/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="https://www.instagram.com/muaz.ejaz/" target="_blank">
+  <a href="https://www.instagram.com/muaz.ejaz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -51,8 +51,25 @@
 - 🌍 Contributing to open-source projects to make the web a better place!
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muaz-Ejaz&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muaz-Ejaz&theme=radical" />
+</p>
+
+---
+
+### 📌 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muaz-Ejaz&layout=compact&theme=radical" />
+</p>
+
+---
 
 ### 👁️‍🗨️ Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAsad256&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Muaz-Ejaz&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
