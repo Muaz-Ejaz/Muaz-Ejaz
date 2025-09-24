@@ -11,7 +11,7 @@
 - 💻 I’m a **web developer** who loves creating **dynamic, responsive, and user-friendly** web apps using **JavaScript**, **HTML**, and **CSS**.  
 - 🎨 Passionate about designing sleek, intuitive interfaces that make users go "Wow!"  
 - 🔧 Always tinkering with code, exploring new libraries, and leveling up my skills.  
-- 📧 Reach out: **asadm2839@gmail.com**  
+- 📧 Reach out: **muhammadmuaz4272@gmail.com**  
 - 😎 **Fun fact**: I debug code faster than I drink my coffee! ☕  
 
 ---
